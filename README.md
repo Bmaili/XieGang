@@ -21,7 +21,9 @@ jdk1.8、SpringBoot2.5、Mysql5.7、Redis4.0
 
 3. 修改application.yaml文件中的mysql，redis配置
 
-   - 更换Mysql的IP、用户名、密码![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/1.png)
+   - 更换Mysql的IP、用户名、密码
+   
+     ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/1.png)
 
    - 更换redis的IP、密码
 
