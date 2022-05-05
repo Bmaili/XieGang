@@ -31,7 +31,7 @@ jdk1.8、SpringBoot2.5、Mysql5.7、Redis4.0
 
    - 可选：Druid监控页配置、阿里云OSS配置（用来保存图片）
 
-![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/批注 2022-05-05 193255.png)
+![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/2022-05-05 193255.png)
 
 ### 使用相关
 
