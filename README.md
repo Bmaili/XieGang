@@ -23,11 +23,11 @@ jdk1.8、SpringBoot2.5、Mysql5.7、Redis4.0
 
    - 更换Mysql的IP、用户名、密码
    
-     ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/1.png)
+     ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/Snipaste_2022-05-06_22-39-42.png)
 
    - 更换redis的IP、密码
 
-     ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/2.png)
+     ![](http://bmalimarkdown.oss-cn-beijing.aliyuncs.com/img/Snipaste_2022-05-06_22-40-01.png)
 
    - 可选：Druid监控页配置、阿里云OSS配置（用来保存图片）
 
